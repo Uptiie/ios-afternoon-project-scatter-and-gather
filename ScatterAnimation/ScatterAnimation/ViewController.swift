@@ -28,5 +28,11 @@ class ViewController: UIViewController {
         var isScattered: Bool
     }
     
+    @objc func rotateButtonTapped() {
+        
+        lLabel.readableContentGuide
+        
+    }
+    
 }
 
